@@ -1,4 +1,4 @@
-package com.dharma.category
+package com.dharma.comment
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
